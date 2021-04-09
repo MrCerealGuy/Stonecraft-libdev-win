@@ -4,6 +4,8 @@ Compilation of Stonecraft Windows libraries for MinGW i686 and x86_64 cross-comp
 
 Andreas "MrCerealGuy" Zahnleiter <mrcerealguy@gmx.de>
 
+Note: i686 ist not maintained anymore
+
 Uses:
 mingw-win-x86_64/luajit-2.1.0-beta3-gc64
 
